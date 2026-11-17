@@ -1,10 +1,10 @@
 {
   "canale": "stabile",
-  "versione": "0.2.1",
-  "versione_minima": "0.2.0",
-  "pubblicata": "2026-11-17T13:02:12Z",
-  "url": "https://github.com/danizhou/rinomina_pdf_version/releases/download/v0.2.1/PDF-Archivist-Setup.exe",
-  "sha256": "9203f30b91dae91f2ef2459af1447c60225d0c9532638879ce1e9c1fda211e35",
-  "dimensione": 127870053,
-  "note": "Correzione degli aggiornamenti automatici."
+  "versione": "0.2.3",
+  "versione_minima": "0.2.1",
+  "pubblicata": "2026-11-17T23:12:41Z",
+  "url": "https://github.com/danizhou/rinomina_pdf_version/releases/download/v0.2.3/PDF-Archivist-Setup.exe",
+  "sha256": "3f3d435b8dab58e6be888db98976de1eb3f540396d08656e432ad0c01e7e333d",
+  "dimensione": 127878171,
+  "note": "Riprendi dopo la pausa risponde subito e i nomi dei file elaborati sono in maiuscolo (COGNOME_NOME_DATA_TIPO.pdf)."
 }
