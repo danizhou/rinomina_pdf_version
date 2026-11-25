@@ -1,10 +1,10 @@
 {
   "canale": "stabile",
-  "versione": "0.2.3",
+  "versione": "0.2.4",
   "versione_minima": "0.2.1",
-  "pubblicata": "2026-11-17T23:12:41Z",
-  "url": "https://github.com/danizhou/rinomina_pdf_version/releases/download/v0.2.3/PDF-Archivist-Setup.exe",
-  "sha256": "3f3d435b8dab58e6be888db98976de1eb3f540396d08656e432ad0c01e7e333d",
-  "dimensione": 127878171,
-  "note": "Riprendi dopo la pausa risponde subito e i nomi dei file elaborati sono in maiuscolo (COGNOME_NOME_DATA_TIPO.pdf)."
+  "pubblicata": "2026-11-25T08:46:24Z",
+  "url": "https://github.com/danizhou/rinomina_pdf_version/releases/download/v0.2.4/PDF-Archivist-Setup.exe",
+  "sha256": "438f3e6892c04774c4bee3266cf99c1ca9522caac60dc8759ba3df93158de805",
+  "dimensione": 127893792,
+  "note": "Versione di prova.\n- DRUG con il verbale: si archivia anche quando la data di nascita non si legge (il file ha solo cognome e nome).\n- ECG_T e AUDIO-2 con il codice fiscale: il file si chiama cognome prima del nome.\n- Un AUDIO-2 con un codice fiscale sbagliato va tra i file in errore: correggere il codice in Inventis, ristampare e rimettere il PDF in da_elaborare.\nI file già archiviati non cambiano nome."
 }
